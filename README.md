@@ -1,4 +1,4 @@
-# 关于 learn-ai 仓库
+# 关于本仓库
 
 本学习笔记参考了 GitHub 开源项目 **learn-ai**。
 
