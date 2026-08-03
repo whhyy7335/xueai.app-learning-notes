@@ -1,5 +1,7 @@
 # 关于本仓库
 
+整理者：**白艾莉 #01C13C**
+
 本学习笔记参考了 GitHub 开源项目 **learn-ai**。
 
 - 仓库地址：https://github.com/itshen/learn-ai
